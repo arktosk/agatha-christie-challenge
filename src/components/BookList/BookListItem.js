@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 // import { connect } from "react-redux";
+import './BookListItem.scss'
 
 class BookListItem extends Component {
   render() {
