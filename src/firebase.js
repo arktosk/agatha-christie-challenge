@@ -1,4 +1,6 @@
-import firebase from "firebase";
+import firebase from "firebase/app";
+import "firebase/firestore";
+import "firebase/auth";
 
 const firebaseConfig = {
   apiKey: process.env.REACT_APP_API_KEY,
@@ -11,6 +13,20 @@ const firebaseConfig = {
 
 firebase.initializeApp(firebaseConfig);
 
+const auth = firebase.auth();
+
+// Sign Up
+const doCreateUserWithEmailAndPassword = (email, password) =>
+  auth.createUserWithEmailAndPassword(email, password);
+
+// Sign In
+const doSignInWithEmailAndPassword = (email, password) =>
+  auth.signInWithEmailAndPassword(email, password);
+
+// Sign out
+const doSignOut = () =>
+  auth.signOut();
+
 const firestore = firebase.firestore();
 firestore.settings({
   timestampsInSnapshots: true
@@ -19,5 +35,11 @@ firestore.settings({
 const booksCollection = firestore.collection("books");
 
 export {
-  booksCollection
+  // Firebase auth
+  doCreateUserWithEmailAndPassword,
+  doSignInWithEmailAndPassword,
+  doSignOut,
+
+  // Firesotre collections
+  booksCollection,
 }
