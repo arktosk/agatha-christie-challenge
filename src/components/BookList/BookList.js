@@ -1,43 +1,38 @@
-import React, { Component } from "react";
-import { connect } from "react-redux";
-import * as actions from "./../../actions";
-import BookListItem from "./BookListItem";
+import React, { useState, useEffect } from 'react';
+import { firestore } from '../../firebase';
 
-class BookList extends Component {
-
-  renderBooks() {
-
-    const { books } = this.props;
-    let Books = books.map((book, key) => {
-      return <BookListItem key={key} book={book} />;
+const useFirestoreQuery = (ref) => {
+  const [docState, setDocState] = useState({
+    isLoading: true,
+    data: null
+  });
+  
+  useEffect(() => {
+    return ref.onSnapshot(docs => {
+      setDocState({
+        isLoading: false,
+        data: docs,
+      });
     });
-    if (Books.length > 0) {
-      return Books;
-    }
-    return (
-      <div className="">
-        <h4>There is no books :(</h4>
-      </div>
-    );
-  }
-
-  componentWillMount() {
-    this.props.fetchBooks();
-  }
-
-  render() {
-    return (
-      <div className="books">
-        <div className="books__container">
-          {this.renderBooks()}
-        </div>
-      </div>
-    );
-  }
+  }, [ref]);
+  
+  return docState;
 }
 
-const mapStateToProps = ({ books }) => ({
-    books: [...books]
-});
+const BookList = () => {
+  // const novels = firestore.collection('novels');
+  // const { isLoading, data } = useFirestoreQuery(novels);
 
-export default connect(mapStateToProps, actions)(BookList);
+  firestore.collection('novels').doc('07ybtRduw8i1w0Ro289x').get().then(snapshot => {
+    console.log(snapshot)
+  })
+  
+  return <>
+    {/* {isLoading && <p>loading...</p>} */}
+    {/* {data && <ul>
+      {data.docs.map(doc => <li></li>)}
+    </ul>} */}
+  </>
+}
+
+export default BookList;
