@@ -28,20 +28,7 @@ const doSignOut = () =>
   auth.signOut();
 
 const firestore = firebase.firestore();
-firestore.settings({
-  host: 'http://localhost:3000/',
-  ssl: false,
-});
-const novelsCollection = firestore.collection('novels');
 
 export {
   firestore,
-
-  // Firebase auth
-  doCreateUserWithEmailAndPassword,
-  doSignInWithEmailAndPassword,
-  doSignOut,
-
-  // Firesotre collections
-  novelsCollection,
 }

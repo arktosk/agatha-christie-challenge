@@ -1,0 +1,519 @@
+[{
+  "title": "The Mysterious Affair at Styles",
+  "publication": {
+    "year": 1920,
+    "publisher": "The Bodley Head"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "The Secret Adversary",
+  "publication": {
+    "year": 1922,
+    "publisher": "The Bodley Head"
+  },
+  "series": "Tommy and Tuppence"
+}, {
+  "title": "The Murder on the Links",
+  "publication": {
+    "year": 1923,
+    "publisher": "The Bodley Head"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "The Man in the Brown Suit",
+  "publication": {
+    "year": 1924,
+    "publisher": "The Bodley Head"
+  },
+  "series": "Colonel Race"
+}, {
+  "title": "The Secret of Chimneys",
+  "publication": {
+    "year": 1925,
+    "publisher": "The Bodley Head"
+  },
+  "series": "Superintendent Battle"
+}, {
+  "title": "The Murder of Roger Ackroyd",
+  "publication": {
+    "year": 1926,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "The Big Four",
+  "publication": {
+    "year": 1927,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "The Mystery of the Blue Train",
+  "publication": {
+    "year": 1928,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "The Seven Dials Mystery",
+  "publication": {
+    "year": 1929,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Superintendent Battle"
+}, {
+  "title": "The Murder at the Vicarage",
+  "publication": {
+    "year": 1930,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Miss Marple"
+}, {
+  "title": "Giant's Bread",
+  "publication": {
+    "year": 1930,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Other"
+}, {
+  "title": "The Floating Admiral",
+  "publication": {
+    "year": 1931,
+    "publisher": "Hodder & Stoughton"
+  },
+  "series": "Mystery novel"
+}, {
+  "title": "The Sittaford Mystery",
+  "publication": {
+    "year": 1931,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Mystery novel"
+}, {
+  "title": "Peril at End House",
+  "publication": {
+    "year": 1932,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "Lord Edgware Dies",
+  "publication": {
+    "year": 1933,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "Murder on the Orient Express",
+  "publication": {
+    "year": 1934,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "Unfinished Portrait",
+  "publication": {
+    "year": 1934,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Other"
+}, {
+  "title": "Why Didn't They Ask Evans?",
+  "publication": {
+    "year": 1934,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Mystery novel"
+}, {
+  "title": "Three Act Tragedy",
+  "publication": {
+    "year": 1935,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "Death in the Clouds",
+  "publication": {
+    "year": 1935,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "The A.B.C. Murders",
+  "publication": {
+    "year": 1936,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "Murder in Mesopotamia",
+  "publication": {
+    "year": 1936,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "Cards on the Table",
+  "publication": {
+    "year": 1936,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "Dumb Witness",
+  "publication": {
+    "year": 1937,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "Death on the Nile",
+  "publication": {
+    "year": 1937,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "Appointment with Death",
+  "publication": {
+    "year": 1938,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "Hercule Poirot's Christmas",
+  "publication": {
+    "year": 1938,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "Murder Is Easy",
+  "publication": {
+    "year": 1939,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Superintendent Battle"
+}, {
+  "title": "Ten Little Niggers",
+  "publication": {
+    "year": 1939,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Mystery novel"
+}, {
+  "title": "Sad Cypress",
+  "publication": {
+    "year": 1940,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "One, Two, Buckle My Shoe",
+  "publication": {
+    "year": 1940,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "Evil Under the Sun",
+  "publication": {
+    "year": 1941,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "N or M?",
+  "publication": {
+    "year": 1941,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Tommy and Tuppence"
+}, {
+  "title": "The Body in the Library",
+  "publication": {
+    "year": 1942,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Miss Marple"
+}, {
+  "title": "Five Little Pigs",
+  "publication": {
+    "year": 1942,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "The Moving Finger",
+  "publication": {
+    "year": 1943,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Miss Marple"
+}, {
+  "title": "Towards Zero",
+  "publication": {
+    "year": 1944,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Superintendent Battle"
+}, {
+  "title": "Absent in the Spring",
+  "publication": {
+    "year": 1944,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Other"
+}, {
+  "title": "Death Comes as the End",
+  "publication": {
+    "year": 1945,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Mystery novel"
+}, {
+  "title": "Sparkling Cyanide",
+  "publication": {
+    "year": 1945,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Colonel Race"
+}, {
+  "title": "The Hollow",
+  "publication": {
+    "year": 1946,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "Taken at the Flood",
+  "publication": {
+    "year": 1948,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "The Rose and the Yew Tree",
+  "publication": {
+    "year": 1948,
+    "publisher": "Heinemann"
+  },
+  "series": "Other"
+}, {
+  "title": "Crooked House",
+  "publication": {
+    "year": 1949,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Mystery novel"
+}, {
+  "title": "A Murder Is Announced",
+  "publication": {
+    "year": 1950,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Miss Marple"
+}, {
+  "title": "They Came to Baghdad",
+  "publication": {
+    "year": 1951,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Mystery novel"
+}, {
+  "title": "Mrs McGinty's Dead",
+  "publication": {
+    "year": 1952,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "They Do It with Mirrors",
+  "publication": {
+    "year": 1952,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Miss Marple"
+}, {
+  "title": "A Daughter's a Daughter",
+  "publication": {
+    "year": 1952,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Other"
+}, {
+  "title": "After the Funeral",
+  "publication": {
+    "year": 1953,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "A Pocket Full of Rye",
+  "publication": {
+    "year": 1953,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Miss Marple"
+}, {
+  "title": "Destination Unknown",
+  "publication": {
+    "year": 1954,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Mystery novel"
+}, {
+  "title": "Hickory Dickory Dock",
+  "publication": {
+    "year": 1955,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "Dead Man's Folly",
+  "publication": {
+    "year": 1956,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "The Burden",
+  "publication": {
+    "year": 1956,
+    "publisher": "Heinemann"
+  },
+  "series": "Other"
+}, {
+  "title": "4.50 from Paddington",
+  "publication": {
+    "year": 1957,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Miss Marple"
+}, {
+  "title": "Ordeal by Innocence",
+  "publication": {
+    "year": 1958,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Mystery novel"
+}, {
+  "title": "Cat Among the Pigeons",
+  "publication": {
+    "year": 1959,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "The Pale Horse",
+  "publication": {
+    "year": 1961,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Mystery novel"
+}, {
+  "title": "The Mirror Crack'd from Side to Side",
+  "publication": {
+    "year": 1962,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Miss Marple"
+}, {
+  "title": "The Clocks",
+  "publication": {
+    "year": 1963,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "A Caribbean Mystery",
+  "publication": {
+    "year": 1964,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Miss Marple"
+}, {
+  "title": "At Bertram's Hotel",
+  "publication": {
+    "year": 1965,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Miss Marple"
+}, {
+  "title": "Third Girl",
+  "publication": {
+    "year": 1966,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "Endless Night",
+  "publication": {
+    "year": 1967,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Mystery novel"
+}, {
+  "title": "By the Pricking of My Thumbs",
+  "publication": {
+    "year": 1968,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Tommy and Tuppence"
+}, {
+  "title": "Hallowe'en Party",
+  "publication": {
+    "year": 1969,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "Passenger to Frankfurt",
+  "publication": {
+    "year": 1970,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Mystery novel"
+}, {
+  "title": "Nemesis",
+  "publication": {
+    "year": 1971,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Miss Marple"
+}, {
+  "title": "Elephants Can Remember",
+  "publication": {
+    "year": 1972,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "Postern of Fate",
+  "publication": {
+    "year": 1973,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Tommy and Tuppence"
+}, {
+  "title": "Curtain",
+  "publication": {
+    "year": 1975,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Hercule Poirot"
+}, {
+  "title": "Sleeping Murder",
+  "publication": {
+    "year": 1976,
+    "publisher": "William Collins & Sons"
+  },
+  "series": "Miss Marple"
+}, {
+  "title": "Hercule Poirot and the Greenshore Folly",
+  "publication": {
+    "year": 2014,
+    "publisher": "HarperCollins"
+  },
+  "series": "Hercule Poirot"
+}]
