@@ -37,6 +37,17 @@ export const UserAuthentication = ({ children }) => {
           setLoader(false);
           return auth.signOut();
         },
+        updateProfile: ({ displayName, photoURL }) => {
+          const updateData = {};
+          if (typeof displayName === 'string') updateData.displayName = displayName;
+          if (typeof photoURL === 'string') updateData.photoURL = photoURL;
+          setUser({
+            ...user,
+            ...updateData,
+          });
+          console.log('updateUser -> ', user);
+          return user.updateProfile(updateData);
+        },
       }}
     >
       {children}
