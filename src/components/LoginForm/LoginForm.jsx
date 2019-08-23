@@ -34,6 +34,7 @@ const LoginForm = () => {
               <span>email: </span>
               <input
                 className="login-form__input login-form__input--email"
+                name="email"
                 type="email"
                 value={email}
                 onChange={event => setEmail(event.target.value)}
@@ -45,6 +46,7 @@ const LoginForm = () => {
               <span>password: </span>
               <input
                 className="login-form__input login-form__input--password"
+                name="password"
                 type="password"
                 value={password}
                 onChange={event => setPassword(event.target.value)}
